@@ -41,7 +41,7 @@ void loop() {
     Serial.print(" %\t");
     Serial.print("Temperature: "); 
     Serial.print(t);
-    Serial.println(" *C");
+    Serial.println(" *F");
   }
   delay(2000);
 }
